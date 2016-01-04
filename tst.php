@@ -5,4 +5,4 @@
  * Date: 4-1-2016
  * Time: 17:47
  */
-echo   'hello';
+hello
